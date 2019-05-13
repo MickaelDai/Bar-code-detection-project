@@ -1,0 +1,1 @@
+{"class":"barCode.BinarisationEtRedimension","values":{"menuPath":"Plugins>Bar code detection>Binarisation et redimension","type":"org.scijava.command.Command"}}{"class":"barCode.ProjectionEtLecture","values":{"menuPath":"Plugins>Bar code detection>Projection et lecture","type":"org.scijava.command.Command"}}
